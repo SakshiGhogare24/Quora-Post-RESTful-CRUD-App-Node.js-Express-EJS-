@@ -6,6 +6,9 @@ The project demonstrates core REST principles and server-side rendering using EJ
 
 ---
 
+## 🌐 Live Demo
+🔗 https://localhost:3000/posts
+
 ## 🚀 Features
 - Create new posts
 - View all posts (Index Route)
