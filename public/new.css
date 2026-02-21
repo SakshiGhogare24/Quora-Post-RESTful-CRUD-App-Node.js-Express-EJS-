@@ -1,0 +1,27 @@
+.container {
+    background-color: rgb(250, 248, 246);
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    width: 400px;
+    height:500px;
+    margin : 0 auto;
+    margin-top: 48px;
+}
+
+h1{
+    text-align: center;
+    color: rgb(164, 124, 124);
+}
+
+form {
+    display: inline-block;
+    margin-top: 40px;
+    margin-left:15%;
+}
+
+button{
+    background-color: rgb(171, 90, 90) !important;
+}
