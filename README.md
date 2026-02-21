@@ -7,7 +7,7 @@ The project demonstrates core REST principles and server-side rendering using EJ
 ---
 
 ## 🌐 Live Demo
-🔗 https://localhost:3000/posts
+🔗 https://quora-post-app-8aq2.onrender.com/posts
 
 ## 🚀 Features
 - Create new posts
