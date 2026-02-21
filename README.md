@@ -1,0 +1,2 @@
+# Quora-Post-RESTful-CRUD-App-Node.js-Express-EJS-
+A RESTful CRUD web application built using Node.js, Express.js, and EJS. This project demonstrates implementation of REST architecture by creating, viewing, editing, updating, and deleting posts using GET, POST, PATCH, and DELETE routes. Unique IDs are generated using UUID, and dynamic pages are rendered using EJS templates with shared CSS styling.
